@@ -1,2 +1,2 @@
 # Prediction_User_Demographics_using_Movie_Dataset
-This study explores gender and age influences on movie preferences using MovieLens and OMDB data. It identifies gendered and universally appealing films and achieves 80% gender and 75% age prediction accuracy via 5-fold cross-validation. The findings aid filmmakers and platforms in personalizing content, boosting engagement, and fostering inclusivity in media.
+This explores gender and age influences on movie preferences using MovieLens and OMDB data. It identifies gendered and universally appealing films and achieves 80% gender and 75% age prediction accuracy via 5-fold cross-validation. The findings aid filmmakers and platforms in personalizing content, boosting engagement, and fostering inclusivity in media.
